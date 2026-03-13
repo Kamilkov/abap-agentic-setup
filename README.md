@@ -115,15 +115,15 @@ your-project/
         ├── rap-odata-analyzer.md
         └── abap-code-writer.md
 ```
-
-2. Open Claude Code in your project directory:
+2. Replace the SAP System URL in CLAUDE.md with your SAP System URL.
+3. Open Claude Code in your project directory:
 
 ```bash
 cd your-project
 claude
 ```
 
-3. Claude Code will automatically detect `CLAUDE.md` and the agents in `.claude/agents/`.
+4. Claude Code will automatically detect `CLAUDE.md` and the agents in `.claude/agents/`.
 
 ## Usage examples
 
